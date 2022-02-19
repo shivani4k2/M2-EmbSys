@@ -12,3 +12,18 @@
 * Wifi module - It is used to send the captured number plate data to the cloud.
 * Buzzer - It is used to indicate the driver that the car is not parked properly.
 
+### High level requirements
+
+| ID  | High level requirements |
+| ------------- | ------------- |
+| HL1  |Detecting the vehicle|
+| HL2  | Storing the data  |
+| HL3  | Detecting the number of vacant slots |
+
+### Low level requirements
+
+| ID  | Low level requirements |
+| ------------- | ------------- |
+| H1L1  |vehicle detection using ultrasonic sensor|
+| H2L1  | Storing the data into cloud  |
+| H3L1  | Vacant slots detection using IR sensors |
