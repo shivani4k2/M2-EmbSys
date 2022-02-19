@@ -1,4 +1,4 @@
-# Parking System
+  # Parking System
 
 
 ### Block Diagram
@@ -27,3 +27,6 @@
 | H1L1  |vehicle detection using ultrasonic sensor|
 | H2L1  | Storing the data into cloud  |
 | H3L1  | Vacant slots detection using IR sensors |
+
+### mid level requirements
+To have a highly smart parking system to have efficient way of parking in the lot and efficient use of parking space
