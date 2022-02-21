@@ -28,5 +28,6 @@
 | H2L1  | Storing the data into cloud  |
 | H3L1  | Vacant slots detection using IR sensors |
 
-### mid level requirements
-To have a highly smart parking system to have efficient way of parking in the lot and efficient use of parking space
+### Applications
+* Free parking space can improve the traffic situation in cities.
+* Optimized usage of parking lot space.
