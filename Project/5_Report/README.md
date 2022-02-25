@@ -1,1 +1,3 @@
+# Smart Dustbin
+## Block Diagram
 
