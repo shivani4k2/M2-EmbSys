@@ -10,5 +10,20 @@ Smart Dustbin as its name represents it works smartly or we can say that it is a
 # 5W's & 1H
 ![WH web](https://user-images.githubusercontent.com/85895650/155673863-8c8dd929-f173-4b44-82fa-902ceb1e86df.jpg)
 # SWOT Analysis
+![SWOT-Analysis-Template-04-TemplateLab com_-scaled](https://user-images.githubusercontent.com/85895650/155678758-0063bc84-e86b-4b49-9a7a-f8d0a4983a82.jpg)
+# Requirements
+## High level requirements
+| ID  | High level requirements |
+| ------------- | ------------- |
+| HL1  |It should automatically open the lid when detect human|
+| HL2  | The bin should automatically close the lid after specified amount of time|
+## Low level requirements
+| ID  | Low level requirements |
+| ------------- | ------------- |
+| H1L1  |It should automatically open the lid when detect human|
+| HL2  | The bin should automatically close the lid after specified amount of time|
+
+
+
 
 
