@@ -20,8 +20,9 @@ Smart Dustbin as its name represents it works smartly or we can say that it is a
 ## Low level requirements
 | ID  | Low level requirements |
 | ------------- | ------------- |
-| H1L1  |It should automatically open the lid when detect human|
-| HL2  | The bin should automatically close the lid after specified amount of time|
+| H1L1  |It opens the lid of the dustbin according to the values of ultrasonic sensor.|
+| H1L2  |According to the values the micro controller receives, it orders the rely to start motion.   |
+| H2L1  | It closes the lid according to the timer or the delay we give during coding.|
 
 
 
