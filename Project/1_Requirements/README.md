@@ -8,4 +8,7 @@ Smart Dustbin as its name represents it works smartly or we can say that it is a
 * The dustbin should open and close itself automatically.
 * As the world pace farward, the technology needs to catch up to the world.  
 # 5W's & 1H
+![WH web](https://user-images.githubusercontent.com/85895650/155673863-8c8dd929-f173-4b44-82fa-902ceb1e86df.jpg)
+# SWOT Analysis
+
 
