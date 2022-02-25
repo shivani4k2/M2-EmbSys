@@ -1,5 +1,6 @@
 # Smart Dustbin
 ## Block Diagram
+![Screenshot (181)](https://user-images.githubusercontent.com/85895650/155697357-5a7da131-2058-4004-8c9a-3bb491a70f2d.png)
 # Description
 Smart Dustbin as its name represents it works smartly or we can say that it is an automatic dustbin. It works like when you will come in front of this dustbin it will open automatically with the help of a servo motor. So there is some sensor work to detect the object in front of the dustbin.
 # Identifying Features
