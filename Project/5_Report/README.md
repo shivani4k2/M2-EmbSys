@@ -31,14 +31,35 @@ Smart Dustbin as its name represents it works smartly or we can say that it is a
 
 ## 3.Block Diagram and Blocks Explanation
 ### 3.1 Block Diagram
+![Screenshot (181)](https://user-images.githubusercontent.com/85895650/157060332-4f22e4f7-4f40-42bf-9e7b-35ad973f318c.png)
 ### 3.2 Sensors
 * Ultrasonic sensor - An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves. An ultrasonic sensor uses a transducer to send and receive ultrasonic pulses that relay back information about an object's proximity.
 ### 3.3 Actuators
 * Servo Motor - Servo motor is a rotatory actuatoror linear actuator that allows for precise control of angular or linear position, velocity and acceleration. It consists of a suitable motor coupled to a sensor for position feedback.
+* Display - In this project we used LCD. A liquid-crystal display (LCD) is a flat-panel display or other electronically modulated optical device that uses the light-modulating properties of liquid crystals combined with polarizers.
+### 3.4 Micro Controller
+* Micro Controller is the brain of the system. In this project we are using Arduino UNO,it is an open-source microcontroller board based on the Microchip ATmega328P microcontroller and developed by Arduino. It maps to the values sent by the ultrasonic sensor and controls the servo motor.
 
+## 4.Architecture
+### 4.1 Behavioural Diagram
+#### 4.1.1 High level flowchart behavioural diagram
+![high](https://user-images.githubusercontent.com/85895650/157006887-8967c43b-fb41-4e2c-a973-370e97d7284a.png)
+#### 4.1.2 Low level flowchart behavioural diagram
+![low](https://user-images.githubusercontent.com/85895650/157006902-542e9a9e-866e-4bf9-9d9a-a5055846d070.png)
 
+## 5.Output
+* Servo motor(OFF) with no human
 
+![Screenshot (188)](https://user-images.githubusercontent.com/85895650/157021478-7788bbd2-1057-4830-8332-f2a579a526b4.png)
+* Servo motor(ON) on detecting the human
 
+![Screenshot (189)](https://user-images.githubusercontent.com/85895650/157021493-3f3de725-c1b5-4dc1-8c02-8ef82be9fcbb.png)
+
+## 6. Application
+* Can be used at home, office, amusement parks etc.
+* Waste disposal and prevents odour.
+* One of the home automation appliance.
+* Comes under the campaign "SWATCH BHARATH".
 
 
 
