@@ -47,7 +47,13 @@ Smart Dustbin as its name represents it works smartly or we can say that it is a
 #### 4.1.2 Low level flowchart behavioural diagram
 ![low](https://user-images.githubusercontent.com/85895650/157006902-542e9a9e-866e-4bf9-9d9a-a5055846d070.png)
 
-## 5.Output
+## 5.Test Plan and Output
+### 5.1 Test Plan
+|Test ID|Description|Input|Expected Output|Actual Output|Passed or Not|
+|------|-------------|--------------|-------|---------|---------|
+|01|Ultrasonic Sensor|27cm(set)|Send 1 to micro controller|Sending 1 to micro controller|✅|
+|02|Servo Motor|160 degrees(set)|Rotate on receiving data from micro controller|Rotate on receiving data from micro controller|✅|
+### 5.2 Output
 * Servo motor(OFF) with no human
 
 ![Screenshot (188)](https://user-images.githubusercontent.com/85895650/157021478-7788bbd2-1057-4830-8332-f2a579a526b4.png)
