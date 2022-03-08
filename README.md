@@ -12,6 +12,6 @@
 |Project - 6_Images and Videos|All images used in the repository|
 |Project - 7_Applications|Applications|
 ## Simulation Video
-https://user-images.githubusercontent.com/85895650/157229292-36dca07d-2d60-43b0-b37c-7704552df4d7.mp4
+[Simulation video link] (https://user-images.githubusercontent.com/85895650/157229292-36dca07d-2d60-43b0-b37c-7704552df4d7.mp4)
 ## Simulation Image
 ![Screenshot (189)](https://user-images.githubusercontent.com/85895650/157229095-48d03bb7-2223-47a2-8ae4-494e26caf5e0.png)
